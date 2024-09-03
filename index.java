@@ -8,5 +8,6 @@ public class index {
 
         int a = sc.nextInt();
         System.out.println(a);
+        sc.close();
     }
 }
