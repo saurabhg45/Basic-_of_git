@@ -7,3 +7,6 @@ function test() {
 function percentage() {
   console.log(arr);
 }
+function feature() {
+  console.log(arr);
+}
